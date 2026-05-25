@@ -2,7 +2,7 @@
 // Intern Reward Token (IRT) — ERC-20
 // Solidity ^0.8.20
 
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.19;
 
 /**
  * @title InternRewardToken
